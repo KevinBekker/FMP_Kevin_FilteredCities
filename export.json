@@ -1,0 +1,4322 @@
+[
+  {
+    "cityName": "Musaffah",
+    "country": "AE",
+    "coordinates": {
+      "lon": 54.48267,
+      "lat": 24.35893
+    },
+    "population": 243341,
+    "modification_date": "2021-08-27"
+  },
+  {
+    "cityName": "Jalālābād",
+    "country": "AF",
+    "coordinates": {
+      "lon": 70.45153,
+      "lat": 34.42647
+    },
+    "population": 271900,
+    "modification_date": "2022-06-18"
+  },
+  {
+    "cityName": "Merlo",
+    "country": "AR",
+    "coordinates": {
+      "lon": -58.72927,
+      "lat": -34.66627
+    },
+    "population": 268961,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Santiago del Estero",
+    "country": "AR",
+    "coordinates": {
+      "lon": -64.26149,
+      "lat": -27.79511
+    },
+    "population": 252192,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "San Salvador de Jujuy",
+    "country": "AR",
+    "coordinates": {
+      "lon": -65.29712,
+      "lat": -24.19457
+    },
+    "population": 257970,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Resistencia",
+    "country": "AR",
+    "coordinates": {
+      "lon": -58.98389,
+      "lat": -27.46056
+    },
+    "population": 290793,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Quilmes",
+    "country": "AR",
+    "coordinates": {
+      "lon": -58.26374,
+      "lat": -34.72904
+    },
+    "population": 262379,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Paraná",
+    "country": "AR",
+    "coordinates": {
+      "lon": -60.52897,
+      "lat": -31.73271
+    },
+    "population": 247139,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Bahía Blanca",
+    "country": "AR",
+    "coordinates": {
+      "lon": -62.27243,
+      "lat": -38.71959
+    },
+    "population": 299101,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Graz",
+    "country": "AT",
+    "coordinates": {
+      "lon": 15.45,
+      "lat": 47.06667
+    },
+    "population": 295424,
+    "modification_date": "2023-02-16"
+  },
+  {
+    "cityName": "Geelong",
+    "country": "AU",
+    "coordinates": {
+      "lon": 144.36069,
+      "lat": -38.14711
+    },
+    "population": 268984,
+    "modification_date": "2022-07-15"
+  },
+  {
+    "cityName": "Hobart",
+    "country": "AU",
+    "coordinates": {
+      "lon": 147.32941,
+      "lat": -42.87936
+    },
+    "population": 247086,
+    "modification_date": "2023-02-16"
+  },
+  {
+    "cityName": "Wollongong",
+    "country": "AU",
+    "coordinates": {
+      "lon": 150.89345,
+      "lat": -34.424
+    },
+    "population": 280153,
+    "modification_date": "2023-02-16"
+  },
+  {
+    "cityName": "Lankaran",
+    "country": "AZ",
+    "coordinates": {
+      "lon": 48.85062,
+      "lat": 38.75428
+    },
+    "population": 240300,
+    "modification_date": "2017-06-27"
+  },
+  {
+    "cityName": "Bagerhat",
+    "country": "BD",
+    "coordinates": {
+      "lon": 89.79123,
+      "lat": 22.65657
+    },
+    "population": 266388,
+    "modification_date": "2017-06-26"
+  },
+  {
+    "cityName": "Jessore",
+    "country": "BD",
+    "coordinates": {
+      "lon": 89.21371,
+      "lat": 23.16971
+    },
+    "population": 243987,
+    "modification_date": "2016-11-09"
+  },
+  {
+    "cityName": "Cox’s Bāzār",
+    "country": "BD",
+    "coordinates": {
+      "lon": 92.00955,
+      "lat": 21.43973
+    },
+    "population": 253788,
+    "modification_date": "2017-04-04"
+  },
+  {
+    "cityName": "Narsingdi",
+    "country": "BD",
+    "coordinates": {
+      "lon": 90.71768,
+      "lat": 23.92298
+    },
+    "population": 281080,
+    "modification_date": "2016-11-09"
+  },
+  {
+    "cityName": "Gent",
+    "country": "BE",
+    "coordinates": {
+      "lon": 3.71667,
+      "lat": 51.05
+    },
+    "population": 265086,
+    "modification_date": "2023-02-19"
+  },
+  {
+    "cityName": "Viamão",
+    "country": "BR",
+    "coordinates": {
+      "lon": -51.02333,
+      "lat": -30.08111
+    },
+    "population": 285269,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Suzano",
+    "country": "BR",
+    "coordinates": {
+      "lon": -46.31083,
+      "lat": -23.5425
+    },
+    "population": 283314,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Petrópolis",
+    "country": "BR",
+    "coordinates": {
+      "lon": -43.17861,
+      "lat": -22.505
+    },
+    "population": 272691,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Sumaré",
+    "country": "BR",
+    "coordinates": {
+      "lon": -47.26694,
+      "lat": -22.82194
+    },
+    "population": 286211,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Itapevi",
+    "country": "BR",
+    "coordinates": {
+      "lon": -46.93417,
+      "lat": -23.54889
+    },
+    "population": 240961,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Colombo",
+    "country": "BR",
+    "coordinates": {
+      "lon": -49.22417,
+      "lat": -25.29167
+    },
+    "population": 246540,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Praia Grande",
+    "country": "BR",
+    "coordinates": {
+      "lon": -46.40278,
+      "lat": -24.00583
+    },
+    "population": 250027,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Ponta Grossa",
+    "country": "BR",
+    "coordinates": {
+      "lon": -50.16194,
+      "lat": -25.095
+    },
+    "population": 292177,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Caucaia",
+    "country": "BR",
+    "coordinates": {
+      "lon": -38.65306,
+      "lat": -3.73611
+    },
+    "population": 275019,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Uberaba",
+    "country": "BR",
+    "coordinates": {
+      "lon": -47.93194,
+      "lat": -19.74833
+    },
+    "population": 260843,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Indaiatuba",
+    "country": "BR",
+    "coordinates": {
+      "lon": -47.2119,
+      "lat": -23.08842
+    },
+    "population": 256223,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Novo Hamburgo",
+    "country": "BR",
+    "coordinates": {
+      "lon": -51.13056,
+      "lat": -29.67833
+    },
+    "population": 253841,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Paulista",
+    "country": "BR",
+    "coordinates": {
+      "lon": -34.87306,
+      "lat": -7.94083
+    },
+    "population": 289971,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Marília",
+    "country": "BR",
+    "coordinates": {
+      "lon": -49.94583,
+      "lat": -22.21389
+    },
+    "population": 240590,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Santa Maria",
+    "country": "BR",
+    "coordinates": {
+      "lon": -53.80694,
+      "lat": -29.68417
+    },
+    "population": 283677,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Cotia",
+    "country": "BR",
+    "coordinates": {
+      "lon": -46.91917,
+      "lat": -23.60389
+    },
+    "population": 253608,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Volta Redonda",
+    "country": "BR",
+    "coordinates": {
+      "lon": -44.10417,
+      "lat": -22.52306
+    },
+    "population": 249580,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Cascavel",
+    "country": "BR",
+    "coordinates": {
+      "lon": -53.45528,
+      "lat": -24.95583
+    },
+    "population": 257172,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Parnamirim",
+    "country": "BR",
+    "coordinates": {
+      "lon": -35.26278,
+      "lat": -5.91556
+    },
+    "population": 267036,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Foz do Iguaçu",
+    "country": "BR",
+    "coordinates": {
+      "lon": -54.58806,
+      "lat": -25.54778
+    },
+    "population": 258248,
+    "modification_date": "2023-02-21"
+  },
+  {
+    "cityName": "Barueri",
+    "country": "BR",
+    "coordinates": {
+      "lon": -46.87611,
+      "lat": -23.51056
+    },
+    "population": 251994,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Vitória da Conquista",
+    "country": "BR",
+    "coordinates": {
+      "lon": -40.83944,
+      "lat": -14.86611
+    },
+    "population": 253137,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Várzea Grande",
+    "country": "BR",
+    "coordinates": {
+      "lon": -56.1325,
+      "lat": -15.64667
+    },
+    "population": 249752,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Governador Valadares",
+    "country": "BR",
+    "coordinates": {
+      "lon": -41.94944,
+      "lat": -18.85111
+    },
+    "population": 250878,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Santa Luzia",
+    "country": "BR",
+    "coordinates": {
+      "lon": -43.85139,
+      "lat": -19.76972
+    },
+    "population": 243503,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Limeira",
+    "country": "BR",
+    "coordinates": {
+      "lon": -47.40167,
+      "lat": -22.56472
+    },
+    "population": 289665,
+    "modification_date": "2012-08-03"
+  },
+  {
+    "cityName": "Kitchener",
+    "country": "CA",
+    "coordinates": {
+      "lon": -80.5112,
+      "lat": 43.42537
+    },
+    "population": 256885,
+    "modification_date": "2022-08-24"
+  },
+  {
+    "cityName": "Victoria",
+    "country": "CA",
+    "coordinates": {
+      "lon": -123.35155,
+      "lat": 48.4359
+    },
+    "population": 289625,
+    "modification_date": "2021-08-08"
+  },
+  {
+    "cityName": "Windsor",
+    "country": "CA",
+    "coordinates": {
+      "lon": -83.01654,
+      "lat": 42.30008
+    },
+    "population": 278013,
+    "modification_date": "2021-08-08"
+  },
+  {
+    "cityName": "Gatineau",
+    "country": "CA",
+    "coordinates": {
+      "lon": -75.70164,
+      "lat": 45.47723
+    },
+    "population": 242124,
+    "modification_date": "2021-08-01"
+  },
+  {
+    "cityName": "Okanagan",
+    "country": "CA",
+    "coordinates": {
+      "lon": -119.34997,
+      "lat": 50.36386
+    },
+    "population": 297601,
+    "modification_date": "2012-01-17"
+  },
+  {
+    "cityName": "Tshikapa",
+    "country": "CD",
+    "coordinates": {
+      "lon": 20.79995,
+      "lat": -6.41621
+    },
+    "population": 267462,
+    "modification_date": "2023-05-28"
+  },
+  {
+    "cityName": "Man",
+    "country": "CI",
+    "coordinates": {
+      "lon": -7.55383,
+      "lat": 7.41251
+    },
+    "population": 241969,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Sinfra",
+    "country": "CI",
+    "coordinates": {
+      "lon": -5.91144,
+      "lat": 6.62103
+    },
+    "population": 245226,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Gagnoa",
+    "country": "CI",
+    "coordinates": {
+      "lon": -5.9506,
+      "lat": 6.13193
+    },
+    "population": 277044,
+    "modification_date": "2022-12-14"
+  },
+  {
+    "cityName": "Viña del Mar",
+    "country": "CL",
+    "coordinates": {
+      "lon": -71.55183,
+      "lat": -33.02457
+    },
+    "population": 294551,
+    "modification_date": "2021-08-08"
+  },
+  {
+    "cityName": "Valparaíso",
+    "country": "CL",
+    "coordinates": {
+      "lon": -71.62963,
+      "lat": -33.036
+    },
+    "population": 282448,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "San Bernardo",
+    "country": "CL",
+    "coordinates": {
+      "lon": -70.6996,
+      "lat": -33.59217
+    },
+    "population": 249858,
+    "modification_date": "2018-04-09"
+  },
+  {
+    "cityName": "Talcahuano",
+    "country": "CL",
+    "coordinates": {
+      "lon": -73.11684,
+      "lat": -36.72494
+    },
+    "population": 252968,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Puerto Montt",
+    "country": "CL",
+    "coordinates": {
+      "lon": -72.94237,
+      "lat": -41.4693
+    },
+    "population": 245902,
+    "modification_date": "2022-08-24"
+  },
+  {
+    "cityName": "Bafoussam",
+    "country": "CM",
+    "coordinates": {
+      "lon": 10.41759,
+      "lat": 5.47775
+    },
+    "population": 290768,
+    "modification_date": "2013-09-05"
+  },
+  {
+    "cityName": "Mokolo",
+    "country": "CM",
+    "coordinates": {
+      "lon": 13.80227,
+      "lat": 10.74244
+    },
+    "population": 275239,
+    "modification_date": "2014-06-04"
+  },
+  {
+    "cityName": "Linqu",
+    "country": "CN",
+    "coordinates": {
+      "lon": 118.53972,
+      "lat": 36.51556
+    },
+    "population": 299646,
+    "modification_date": "2021-09-22"
+  },
+  {
+    "cityName": "Dengzhou",
+    "country": "CN",
+    "coordinates": {
+      "lon": 112.08194,
+      "lat": 32.68222
+    },
+    "population": 285032,
+    "modification_date": "2021-10-20"
+  },
+  {
+    "cityName": "Hami",
+    "country": "CN",
+    "coordinates": {
+      "lon": 93.50601,
+      "lat": 42.83393
+    },
+    "population": 246373,
+    "modification_date": "2022-01-02"
+  },
+  {
+    "cityName": "Nada",
+    "country": "CN",
+    "coordinates": {
+      "lon": 109.5786,
+      "lat": 19.52257
+    },
+    "population": 256652,
+    "modification_date": "2021-10-14"
+  },
+  {
+    "cityName": "Linxia Chengguanzhen",
+    "country": "CN",
+    "coordinates": {
+      "lon": 103.20639,
+      "lat": 35.60028
+    },
+    "population": 274466,
+    "modification_date": "2021-12-05"
+  },
+  {
+    "cityName": "Enshi",
+    "country": "CN",
+    "coordinates": {
+      "lon": 109.48333,
+      "lat": 30.3
+    },
+    "population": 279185,
+    "modification_date": "2021-10-19"
+  },
+  {
+    "cityName": "Fuling",
+    "country": "CN",
+    "coordinates": {
+      "lon": 107.39391,
+      "lat": 29.70997
+    },
+    "population": 268658,
+    "modification_date": "2022-06-05"
+  },
+  {
+    "cityName": "Suihua",
+    "country": "CN",
+    "coordinates": {
+      "lon": 126.96656,
+      "lat": 46.64814
+    },
+    "population": 252245,
+    "modification_date": "2022-04-17"
+  },
+  {
+    "cityName": "Chengzhong",
+    "country": "CN",
+    "coordinates": {
+      "lon": 113.55284,
+      "lat": 30.94454
+    },
+    "population": 265886,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Simao",
+    "country": "CN",
+    "coordinates": {
+      "lon": 100.97481,
+      "lat": 22.78863
+    },
+    "population": 296565,
+    "modification_date": "2021-10-14"
+  },
+  {
+    "cityName": "Gaozhou",
+    "country": "CN",
+    "coordinates": {
+      "lon": 110.85678,
+      "lat": 21.91965
+    },
+    "population": 292164,
+    "modification_date": "2021-10-13"
+  },
+  {
+    "cityName": "Jining",
+    "country": "CN",
+    "coordinates": {
+      "lon": 113.10583,
+      "lat": 41.0275
+    },
+    "population": 258757,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Yanzhou",
+    "country": "CN",
+    "coordinates": {
+      "lon": 116.82861,
+      "lat": 35.55278
+    },
+    "population": 254788,
+    "modification_date": "2021-10-08"
+  },
+  {
+    "cityName": "Rugao",
+    "country": "CN",
+    "coordinates": {
+      "lon": 120.57649,
+      "lat": 32.37035
+    },
+    "population": 257400,
+    "modification_date": "2021-10-07"
+  },
+  {
+    "cityName": "Xiuying",
+    "country": "CN",
+    "coordinates": {
+      "lon": 110.29359,
+      "lat": 20.00073
+    },
+    "population": 290000,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Binhe",
+    "country": "CN",
+    "coordinates": {
+      "lon": 112.8275,
+      "lat": 32.68833
+    },
+    "population": 278055,
+    "modification_date": "2021-10-20"
+  },
+  {
+    "cityName": "Fangchenggang",
+    "country": "CN",
+    "coordinates": {
+      "lon": 108.35661,
+      "lat": 21.76945
+    },
+    "population": 276315,
+    "modification_date": "2021-10-13"
+  },
+  {
+    "cityName": "Donghai",
+    "country": "CN",
+    "coordinates": {
+      "lon": 115.64204,
+      "lat": 22.94593
+    },
+    "population": 264709,
+    "modification_date": "2021-10-08"
+  },
+  {
+    "cityName": "Karamay",
+    "country": "CN",
+    "coordinates": {
+      "lon": 84.88724,
+      "lat": 45.58473
+    },
+    "population": 261445,
+    "modification_date": "2022-02-01"
+  },
+  {
+    "cityName": "Suicheng",
+    "country": "CN",
+    "coordinates": {
+      "lon": 117.93307,
+      "lat": 33.8963
+    },
+    "population": 256665,
+    "modification_date": "2021-09-22"
+  },
+  {
+    "cityName": "Jiyuan",
+    "country": "CN",
+    "coordinates": {
+      "lon": 112.58,
+      "lat": 35.09
+    },
+    "population": 242143,
+    "modification_date": "2021-10-20"
+  },
+  {
+    "cityName": "Zoucheng",
+    "country": "CN",
+    "coordinates": {
+      "lon": 116.96556,
+      "lat": 35.40056
+    },
+    "population": 277400,
+    "modification_date": "2021-10-08"
+  },
+  {
+    "cityName": "Laohekou",
+    "country": "CN",
+    "coordinates": {
+      "lon": 111.66778,
+      "lat": 32.38583
+    },
+    "population": 253112,
+    "modification_date": "2018-12-06"
+  },
+  {
+    "cityName": "Hulan Ergi",
+    "country": "CN",
+    "coordinates": {
+      "lon": 123.63333,
+      "lat": 47.20417
+    },
+    "population": 265344,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Yili",
+    "country": "CN",
+    "coordinates": {
+      "lon": 81.35,
+      "lat": 43.9
+    },
+    "population": 269158,
+    "modification_date": "2022-03-08"
+  },
+  {
+    "cityName": "Wafangdian",
+    "country": "CN",
+    "coordinates": {
+      "lon": 122.00806,
+      "lat": 39.61833
+    },
+    "population": 250591,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Xingning",
+    "country": "CN",
+    "coordinates": {
+      "lon": 115.72272,
+      "lat": 24.1483
+    },
+    "population": 274499,
+    "modification_date": "2021-10-08"
+  },
+  {
+    "cityName": "Kaili",
+    "country": "CN",
+    "coordinates": {
+      "lon": 107.97972,
+      "lat": 26.58583
+    },
+    "population": 275745,
+    "modification_date": "2021-10-13"
+  },
+  {
+    "cityName": "Baiyin",
+    "country": "CN",
+    "coordinates": {
+      "lon": 104.17023,
+      "lat": 36.54696
+    },
+    "population": 294400,
+    "modification_date": "2021-12-14"
+  },
+  {
+    "cityName": "Tongliao",
+    "country": "CN",
+    "coordinates": {
+      "lon": 122.26528,
+      "lat": 43.6125
+    },
+    "population": 261110,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Aral",
+    "country": "CN",
+    "coordinates": {
+      "lon": 81.26566,
+      "lat": 40.54184
+    },
+    "population": 260000,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Huayin",
+    "country": "CN",
+    "coordinates": {
+      "lon": 110.06639,
+      "lat": 34.56528
+    },
+    "population": 242488,
+    "modification_date": "2021-09-20"
+  },
+  {
+    "cityName": "Changle",
+    "country": "CN",
+    "coordinates": {
+      "lon": 118.8275,
+      "lat": 36.70583
+    },
+    "population": 259161,
+    "modification_date": "2021-09-22"
+  },
+  {
+    "cityName": "Longling County",
+    "country": "CN",
+    "coordinates": {
+      "lon": 98.68934,
+      "lat": 24.58663
+    },
+    "population": 270000,
+    "modification_date": "2022-07-11"
+  },
+  {
+    "cityName": "Xinyuan",
+    "country": "CN",
+    "coordinates": {
+      "lon": 83.24959,
+      "lat": 43.42649
+    },
+    "population": 282718,
+    "modification_date": "2022-02-04"
+  },
+  {
+    "cityName": "Beibei",
+    "country": "CN",
+    "coordinates": {
+      "lon": 106.43645,
+      "lat": 29.82739
+    },
+    "population": 247702,
+    "modification_date": "2022-04-01"
+  },
+  {
+    "cityName": "Turpan",
+    "country": "CN",
+    "coordinates": {
+      "lon": 89.17886,
+      "lat": 42.94769
+    },
+    "population": 273385,
+    "modification_date": "2022-02-04"
+  },
+  {
+    "cityName": "Nianbo",
+    "country": "CN",
+    "coordinates": {
+      "lon": 102.41639,
+      "lat": 36.48
+    },
+    "population": 260184,
+    "modification_date": "2021-12-14"
+  },
+  {
+    "cityName": "Floridablanca",
+    "country": "CO",
+    "coordinates": {
+      "lon": -73.08644,
+      "lat": 7.06222
+    },
+    "population": 267591,
+    "modification_date": "2022-08-24"
+  },
+  {
+    "cityName": "Sincelejo",
+    "country": "CO",
+    "coordinates": {
+      "lon": -75.39778,
+      "lat": 9.30472
+    },
+    "population": 277773,
+    "modification_date": "2022-08-11"
+  },
+  {
+    "cityName": "Itagüí",
+    "country": "CO",
+    "coordinates": {
+      "lon": -75.59913,
+      "lat": 6.18461
+    },
+    "population": 281853,
+    "modification_date": "2018-06-08"
+  },
+  {
+    "cityName": "Buenaventura",
+    "country": "CO",
+    "coordinates": {
+      "lon": -77.03116,
+      "lat": 3.8801
+    },
+    "population": 240387,
+    "modification_date": "2018-09-05"
+  },
+  {
+    "cityName": "Guantánamo",
+    "country": "CU",
+    "coordinates": {
+      "lon": -75.20917,
+      "lat": 20.14444
+    },
+    "population": 272801,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Santa Clara",
+    "country": "CU",
+    "coordinates": {
+      "lon": -79.96472,
+      "lat": 22.40694
+    },
+    "population": 250512,
+    "modification_date": "2023-05-19"
+  },
+  {
+    "cityName": "Ostrava",
+    "country": "CZ",
+    "coordinates": {
+      "lon": 18.28204,
+      "lat": 49.83465
+    },
+    "population": 279791,
+    "modification_date": "2022-08-13"
+  },
+  {
+    "cityName": "Altona",
+    "country": "DE",
+    "coordinates": {
+      "lon": 9.93333,
+      "lat": 53.55
+    },
+    "population": 250192,
+    "modification_date": "2017-09-19"
+  },
+  {
+    "cityName": "Gelsenkirchen",
+    "country": "DE",
+    "coordinates": {
+      "lon": 7.09654,
+      "lat": 51.50508
+    },
+    "population": 270028,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Chemnitz",
+    "country": "DE",
+    "coordinates": {
+      "lon": 12.92922,
+      "lat": 50.8357
+    },
+    "population": 247220,
+    "modification_date": "2021-06-21"
+  },
+  {
+    "cityName": "Eimsbüttel",
+    "country": "DE",
+    "coordinates": {
+      "lon": 9.95679,
+      "lat": 53.57416
+    },
+    "population": 269118,
+    "modification_date": "2023-03-06"
+  },
+  {
+    "cityName": "Mönchengladbach",
+    "country": "DE",
+    "coordinates": {
+      "lon": 6.44172,
+      "lat": 51.18539
+    },
+    "population": 261742,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Karlsruhe",
+    "country": "DE",
+    "coordinates": {
+      "lon": 8.40444,
+      "lat": 49.00937
+    },
+    "population": 283799,
+    "modification_date": "2023-04-19"
+  },
+  {
+    "cityName": "Braunschweig",
+    "country": "DE",
+    "coordinates": {
+      "lon": 10.52673,
+      "lat": 52.26594
+    },
+    "population": 244715,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Aachen",
+    "country": "DE",
+    "coordinates": {
+      "lon": 6.08342,
+      "lat": 50.77664
+    },
+    "population": 265208,
+    "modification_date": "2021-04-30"
+  },
+  {
+    "cityName": "Augsburg",
+    "country": "DE",
+    "coordinates": {
+      "lon": 10.89851,
+      "lat": 48.37154
+    },
+    "population": 259196,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Kiel",
+    "country": "DE",
+    "coordinates": {
+      "lon": 10.13489,
+      "lat": 54.32133
+    },
+    "population": 246601,
+    "modification_date": "2022-08-14"
+  },
+  {
+    "cityName": "Münster",
+    "country": "DE",
+    "coordinates": {
+      "lon": 7.62571,
+      "lat": 51.96236
+    },
+    "population": 270184,
+    "modification_date": "2020-08-31"
+  },
+  {
+    "cityName": "Wiesbaden",
+    "country": "DE",
+    "coordinates": {
+      "lon": 8.24932,
+      "lat": 50.08258
+    },
+    "population": 278609,
+    "modification_date": "2022-08-14"
+  },
+  {
+    "cityName": "Marienthal",
+    "country": "DE",
+    "coordinates": {
+      "lon": 10.08333,
+      "lat": 53.56667
+    },
+    "population": 287101,
+    "modification_date": "2017-08-14"
+  },
+  {
+    "cityName": "Århus",
+    "country": "DK",
+    "coordinates": {
+      "lon": 10.21076,
+      "lat": 56.15674
+    },
+    "population": 285273,
+    "modification_date": "2022-08-30"
+  },
+  {
+    "cityName": "Batna",
+    "country": "DZ",
+    "coordinates": {
+      "lon": 6.17414,
+      "lat": 35.55597
+    },
+    "population": 280798,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Sétif",
+    "country": "DZ",
+    "coordinates": {
+      "lon": 5.41373,
+      "lat": 36.19112
+    },
+    "population": 288461,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Bab Ezzouar",
+    "country": "DZ",
+    "coordinates": {
+      "lon": 3.18291,
+      "lat": 36.72615
+    },
+    "population": 275630,
+    "modification_date": "2019-05-10"
+  },
+  {
+    "cityName": "Manta",
+    "country": "EC",
+    "coordinates": {
+      "lon": -80.71271,
+      "lat": -0.96212
+    },
+    "population": 264281,
+    "modification_date": "2022-09-20"
+  },
+  {
+    "cityName": "Machala",
+    "country": "EC",
+    "coordinates": {
+      "lon": -79.96053,
+      "lat": -3.25861
+    },
+    "population": 289141,
+    "modification_date": "2022-09-20"
+  },
+  {
+    "cityName": "Loja",
+    "country": "EC",
+    "coordinates": {
+      "lon": -79.20422,
+      "lat": -3.99313
+    },
+    "population": 274112,
+    "modification_date": "2022-09-20"
+  },
+  {
+    "cityName": "Riobamba",
+    "country": "EC",
+    "coordinates": {
+      "lon": -78.64712,
+      "lat": -1.67098
+    },
+    "population": 264048,
+    "modification_date": "2022-09-20"
+  },
+  {
+    "cityName": "Shibīn al Kawm",
+    "country": "EG",
+    "coordinates": {
+      "lon": 31.00904,
+      "lat": 30.55258
+    },
+    "population": 267945,
+    "modification_date": "2022-04-19"
+  },
+  {
+    "cityName": "Kafr ad Dawwār",
+    "country": "EG",
+    "coordinates": {
+      "lon": 30.12969,
+      "lat": 31.13379
+    },
+    "population": 267370,
+    "modification_date": "2020-06-11"
+  },
+  {
+    "cityName": "Banī Suwayf",
+    "country": "EG",
+    "coordinates": {
+      "lon": 31.09785,
+      "lat": 29.07441
+    },
+    "population": 273151,
+    "modification_date": "2022-04-19"
+  },
+  {
+    "cityName": "Qinā",
+    "country": "EG",
+    "coordinates": {
+      "lon": 32.72671,
+      "lat": 26.16418
+    },
+    "population": 252883,
+    "modification_date": "2022-04-19"
+  },
+  {
+    "cityName": "Al ‘Āshir min Ramaḑān",
+    "country": "EG",
+    "coordinates": {
+      "lon": 31.74633,
+      "lat": 30.29636
+    },
+    "population": 246148,
+    "modification_date": "2022-04-19"
+  },
+  {
+    "cityName": "Al Minyā",
+    "country": "EG",
+    "coordinates": {
+      "lon": 30.75813,
+      "lat": 28.09193
+    },
+    "population": 283605,
+    "modification_date": "2022-04-18"
+  },
+  {
+    "cityName": "Sohag",
+    "country": "EG",
+    "coordinates": {
+      "lon": 31.69478,
+      "lat": 26.55695
+    },
+    "population": 266944,
+    "modification_date": "2022-04-19"
+  },
+  {
+    "cityName": "Gijón",
+    "country": "ES",
+    "coordinates": {
+      "lon": -5.66152,
+      "lat": 43.53573
+    },
+    "population": 277554,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Valladolid",
+    "country": "ES",
+    "coordinates": {
+      "lon": -4.72372,
+      "lat": 41.65518
+    },
+    "population": 299265,
+    "modification_date": "2022-10-22"
+  },
+  {
+    "cityName": "Latina",
+    "country": "ES",
+    "coordinates": {
+      "lon": -3.74569,
+      "lat": 40.38897
+    },
+    "population": 256644,
+    "modification_date": "2017-05-26"
+  },
+  {
+    "cityName": "A Coruña",
+    "country": "ES",
+    "coordinates": {
+      "lon": -8.396,
+      "lat": 43.37135
+    },
+    "population": 246056,
+    "modification_date": "2015-04-24"
+  },
+  {
+    "cityName": "Vigo",
+    "country": "ES",
+    "coordinates": {
+      "lon": -8.72264,
+      "lat": 42.23282
+    },
+    "population": 297332,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Carabanchel",
+    "country": "ES",
+    "coordinates": {
+      "lon": -3.7242,
+      "lat": 40.39094
+    },
+    "population": 253678,
+    "modification_date": "2017-05-26"
+  },
+  {
+    "cityName": "Gasteiz / Vitoria",
+    "country": "ES",
+    "coordinates": {
+      "lon": -2.67268,
+      "lat": 42.84998
+    },
+    "population": 249176,
+    "modification_date": "2022-10-22"
+  },
+  {
+    "cityName": "L'Hospitalet de Llobregat",
+    "country": "ES",
+    "coordinates": {
+      "lon": 2.10028,
+      "lat": 41.35967
+    },
+    "population": 257038,
+    "modification_date": "2023-02-19"
+  },
+  {
+    "cityName": "Eixample",
+    "country": "ES",
+    "coordinates": {
+      "lon": 2.16179,
+      "lat": 41.38896
+    },
+    "population": 266477,
+    "modification_date": "2018-11-13"
+  },
+  {
+    "cityName": "Puente de Vallecas",
+    "country": "ES",
+    "coordinates": {
+      "lon": -3.662,
+      "lat": 40.39354
+    },
+    "population": 244151,
+    "modification_date": "2017-05-26"
+  },
+  {
+    "cityName": "Dire Dawa",
+    "country": "ET",
+    "coordinates": {
+      "lon": 41.86611,
+      "lat": 9.59306
+    },
+    "population": 277000,
+    "modification_date": "2023-02-13"
+  },
+  {
+    "cityName": "Desē",
+    "country": "ET",
+    "coordinates": {
+      "lon": 39.63333,
+      "lat": 11.13333
+    },
+    "population": 257126,
+    "modification_date": "2023-01-04"
+  },
+  {
+    "cityName": "Tampere",
+    "country": "FI",
+    "coordinates": {
+      "lon": 23.78712,
+      "lat": 61.49911
+    },
+    "population": 244315,
+    "modification_date": "2022-08-13"
+  },
+  {
+    "cityName": "Espoo",
+    "country": "FI",
+    "coordinates": {
+      "lon": 24.6522,
+      "lat": 60.2052
+    },
+    "population": 256760,
+    "modification_date": "2022-06-01"
+  },
+  {
+    "cityName": "Bordeaux",
+    "country": "FR",
+    "coordinates": {
+      "lon": -0.5805,
+      "lat": 44.84044
+    },
+    "population": 260958,
+    "modification_date": "2022-08-14"
+  },
+  {
+    "cityName": "Strasbourg",
+    "country": "FR",
+    "coordinates": {
+      "lon": 7.74553,
+      "lat": 48.58392
+    },
+    "population": 274845,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Montpellier",
+    "country": "FR",
+    "coordinates": {
+      "lon": 3.87635,
+      "lat": 43.61093
+    },
+    "population": 248252,
+    "modification_date": "2021-08-03"
+  },
+  {
+    "cityName": "Milton Keynes",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.75583,
+      "lat": 52.04172
+    },
+    "population": 256385,
+    "modification_date": "2023-02-26"
+  },
+  {
+    "cityName": "City of Westminster",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.1357,
+      "lat": 51.4975
+    },
+    "population": 247614,
+    "modification_date": "2019-05-09"
+  },
+  {
+    "cityName": "Plymouth",
+    "country": "GB",
+    "coordinates": {
+      "lon": -4.14305,
+      "lat": 50.37153
+    },
+    "population": 260203,
+    "modification_date": "2021-08-08"
+  },
+  {
+    "cityName": "Derby",
+    "country": "GB",
+    "coordinates": {
+      "lon": -1.47663,
+      "lat": 52.92277
+    },
+    "population": 270468,
+    "modification_date": "2021-07-25"
+  },
+  {
+    "cityName": "Southend-on-Sea",
+    "country": "GB",
+    "coordinates": {
+      "lon": 0.71433,
+      "lat": 51.53782
+    },
+    "population": 295310,
+    "modification_date": "2018-03-12"
+  },
+  {
+    "cityName": "Brighton",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.13947,
+      "lat": 50.82838
+    },
+    "population": 277103,
+    "modification_date": "2023-02-26"
+  },
+  {
+    "cityName": "Stoke-on-Trent",
+    "country": "GB",
+    "coordinates": {
+      "lon": -2.18538,
+      "lat": 53.00415
+    },
+    "population": 258366,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Northampton",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.88333,
+      "lat": 52.25
+    },
+    "population": 245899,
+    "modification_date": "2023-02-26"
+  },
+  {
+    "cityName": "Southampton",
+    "country": "GB",
+    "coordinates": {
+      "lon": -1.40428,
+      "lat": 50.90395
+    },
+    "population": 269781,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Wolverhampton",
+    "country": "GB",
+    "coordinates": {
+      "lon": -2.12296,
+      "lat": 52.58547
+    },
+    "population": 263700,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Tai Po",
+    "country": "HK",
+    "coordinates": {
+      "lon": 114.16877,
+      "lat": 22.45007
+    },
+    "population": 274100,
+    "modification_date": "2022-06-08"
+  },
+  {
+    "cityName": "Tin Shui Wai",
+    "country": "HK",
+    "coordinates": {
+      "lon": 114.00234,
+      "lat": 22.45679
+    },
+    "population": 282400,
+    "modification_date": "2022-06-08"
+  },
+  {
+    "cityName": "Fanling",
+    "country": "HK",
+    "coordinates": {
+      "lon": 114.13949,
+      "lat": 22.49487
+    },
+    "population": 263200,
+    "modification_date": "2022-06-08"
+  },
+  {
+    "cityName": "Tsuen Wan",
+    "country": "HK",
+    "coordinates": {
+      "lon": 114.11329,
+      "lat": 22.37137
+    },
+    "population": 299400,
+    "modification_date": "2022-06-08"
+  },
+  {
+    "cityName": "Pétionville",
+    "country": "HT",
+    "coordinates": {
+      "lon": -72.28528,
+      "lat": 18.5125
+    },
+    "population": 283052,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Cilacap",
+    "country": "ID",
+    "coordinates": {
+      "lon": 109.00944,
+      "lat": -7.72639
+    },
+    "population": 256996,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Probolinggo",
+    "country": "ID",
+    "coordinates": {
+      "lon": 113.2159,
+      "lat": -7.7543
+    },
+    "population": 241202,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Tasikmalaya",
+    "country": "ID",
+    "coordinates": {
+      "lon": 108.2207,
+      "lat": -7.3274
+    },
+    "population": 271143,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Banda Aceh",
+    "country": "ID",
+    "coordinates": {
+      "lon": 95.33333,
+      "lat": 5.54167
+    },
+    "population": 255029,
+    "modification_date": "2022-08-14"
+  },
+  {
+    "cityName": "Jember",
+    "country": "ID",
+    "coordinates": {
+      "lon": 113.69953,
+      "lat": -8.17211
+    },
+    "population": 298585,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Sukabumi",
+    "country": "ID",
+    "coordinates": {
+      "lon": 106.92667,
+      "lat": -6.91806
+    },
+    "population": 276414,
+    "modification_date": "2022-12-30"
+  },
+  {
+    "cityName": "Pasarkemis",
+    "country": "ID",
+    "coordinates": {
+      "lon": 106.53028,
+      "lat": -6.17028
+    },
+    "population": 273659,
+    "modification_date": "2022-09-29"
+  },
+  {
+    "cityName": "Sorong",
+    "country": "ID",
+    "coordinates": {
+      "lon": 131.26104,
+      "lat": -0.87956
+    },
+    "population": 254294,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Tarakan",
+    "country": "ID",
+    "coordinates": {
+      "lon": 117.59152,
+      "lat": 3.31332
+    },
+    "population": 242786,
+    "modification_date": "2022-12-30"
+  },
+  {
+    "cityName": "Binjai",
+    "country": "ID",
+    "coordinates": {
+      "lon": 98.4854,
+      "lat": 3.6001
+    },
+    "population": 279302,
+    "modification_date": "2023-02-08"
+  },
+  {
+    "cityName": "Cileungsir",
+    "country": "ID",
+    "coordinates": {
+      "lon": 106.95917,
+      "lat": -6.39472
+    },
+    "population": 288347,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Pematangsiantar",
+    "country": "ID",
+    "coordinates": {
+      "lon": 99.0687,
+      "lat": 2.9595
+    },
+    "population": 268254,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "Palangkaraya",
+    "country": "ID",
+    "coordinates": {
+      "lon": 113.91667,
+      "lat": -2.20833
+    },
+    "population": 293500,
+    "modification_date": "2022-12-31"
+  },
+  {
+    "cityName": "South Dublin",
+    "country": "IE",
+    "coordinates": {
+      "lon": -6.34151,
+      "lat": 53.29026
+    },
+    "population": 278749,
+    "modification_date": "2022-08-08"
+  },
+  {
+    "cityName": "Rishon LeTsiyyon",
+    "country": "IL",
+    "coordinates": {
+      "lon": 34.78939,
+      "lat": 31.97102
+    },
+    "population": 258535,
+    "modification_date": "2023-02-07"
+  },
+  {
+    "cityName": "Haifa",
+    "country": "IL",
+    "coordinates": {
+      "lon": 34.9885,
+      "lat": 32.81841
+    },
+    "population": 285316,
+    "modification_date": "2023-02-07"
+  },
+  {
+    "cityName": "Petaẖ Tiqva",
+    "country": "IL",
+    "coordinates": {
+      "lon": 34.88747,
+      "lat": 32.08707
+    },
+    "population": 253529,
+    "modification_date": "2023-05-31"
+  },
+  {
+    "cityName": "Etāwah",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.02133,
+      "lat": 26.77615
+    },
+    "population": 257448,
+    "modification_date": "2015-12-05"
+  },
+  {
+    "cityName": "Dewas",
+    "country": "IN",
+    "coordinates": {
+      "lon": 76.05526,
+      "lat": 22.96585
+    },
+    "population": 261218,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Alwar",
+    "country": "IN",
+    "coordinates": {
+      "lon": 76.625,
+      "lat": 27.56246
+    },
+    "population": 283228,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Greater Noida",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.53601,
+      "lat": 28.49615
+    },
+    "population": 293908,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Lal Bahadur Nagar",
+    "country": "IN",
+    "coordinates": {
+      "lon": 78.55757,
+      "lat": 17.34769
+    },
+    "population": 261987,
+    "modification_date": "2014-10-10"
+  },
+  {
+    "cityName": "Bijapur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 75.71537,
+      "lat": 16.82442
+    },
+    "population": 271064,
+    "modification_date": "2023-05-19"
+  },
+  {
+    "cityName": "Tiruvottiyūr",
+    "country": "IN",
+    "coordinates": {
+      "lon": 80.30181,
+      "lat": 13.15823
+    },
+    "population": 248059,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Bihār Sharīf",
+    "country": "IN",
+    "coordinates": {
+      "lon": 85.52389,
+      "lat": 25.20084
+    },
+    "population": 244230,
+    "modification_date": "2016-05-09"
+  },
+  {
+    "cityName": "Darbhanga",
+    "country": "IN",
+    "coordinates": {
+      "lon": 85.89707,
+      "lat": 26.15216
+    },
+    "population": 287150,
+    "modification_date": "2021-03-11"
+  },
+  {
+    "cityName": "Satna",
+    "country": "IN",
+    "coordinates": {
+      "lon": 80.82719,
+      "lat": 24.57726
+    },
+    "population": 257778,
+    "modification_date": "2015-08-07"
+  },
+  {
+    "cityName": "Mau",
+    "country": "IN",
+    "coordinates": {
+      "lon": 83.56111,
+      "lat": 25.94167
+    },
+    "population": 246050,
+    "modification_date": "2015-08-07"
+  },
+  {
+    "cityName": "Āvadi",
+    "country": "IN",
+    "coordinates": {
+      "lon": 80.10981,
+      "lat": 13.1147
+    },
+    "population": 250044,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Naihāti",
+    "country": "IN",
+    "coordinates": {
+      "lon": 88.41521,
+      "lat": 22.89396
+    },
+    "population": 253221,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Durg",
+    "country": "IN",
+    "coordinates": {
+      "lon": 81.27619,
+      "lat": 21.19147
+    },
+    "population": 255283,
+    "modification_date": "2015-08-30"
+  },
+  {
+    "cityName": "Farrukhābād",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.5793,
+      "lat": 27.39134
+    },
+    "population": 241152,
+    "modification_date": "2015-08-07"
+  },
+  {
+    "cityName": "Alappuzha",
+    "country": "IN",
+    "coordinates": {
+      "lon": 76.3264,
+      "lat": 9.49004
+    },
+    "population": 240991,
+    "modification_date": "2021-12-02"
+  },
+  {
+    "cityName": "Noida",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.33,
+      "lat": 28.58
+    },
+    "population": 293908,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Sonīpat",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.01937,
+      "lat": 28.99478
+    },
+    "population": 250521,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Rānipet",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.33331,
+      "lat": 12.92471
+    },
+    "population": 264330,
+    "modification_date": "2022-08-17"
+  },
+  {
+    "cityName": "Hāpur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.78068,
+      "lat": 28.72985
+    },
+    "population": 242920,
+    "modification_date": "2018-05-27"
+  },
+  {
+    "cityName": "Mulugu",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.943,
+      "lat": 18.191
+    },
+    "population": 297671,
+    "modification_date": "2023-01-17"
+  },
+  {
+    "cityName": "Gajuwaka",
+    "country": "IN",
+    "coordinates": {
+      "lon": 83.21667,
+      "lat": 17.7
+    },
+    "population": 258944,
+    "modification_date": "2014-10-10"
+  },
+  {
+    "cityName": "Tirupati",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.41989,
+      "lat": 13.63551
+    },
+    "population": 250821,
+    "modification_date": "2020-07-10"
+  },
+  {
+    "cityName": "Pānīpat",
+    "country": "IN",
+    "coordinates": {
+      "lon": 76.96825,
+      "lat": 29.38747
+    },
+    "population": 292808,
+    "modification_date": "2015-09-06"
+  },
+  {
+    "cityName": "Bathinda",
+    "country": "IN",
+    "coordinates": {
+      "lon": 74.93893,
+      "lat": 30.20747
+    },
+    "population": 242800,
+    "modification_date": "2017-03-04"
+  },
+  {
+    "cityName": "Jālna",
+    "country": "IN",
+    "coordinates": {
+      "lon": 75.88636,
+      "lat": 19.84102
+    },
+    "population": 262034,
+    "modification_date": "2019-03-29"
+  },
+  {
+    "cityName": "Saugor",
+    "country": "IN",
+    "coordinates": {
+      "lon": 78.73874,
+      "lat": 23.83877
+    },
+    "population": 247333,
+    "modification_date": "2023-05-20"
+  },
+  {
+    "cityName": "Ichalkaranji",
+    "country": "IN",
+    "coordinates": {
+      "lon": 74.46054,
+      "lat": 16.69117
+    },
+    "population": 274383,
+    "modification_date": "2014-10-13"
+  },
+  {
+    "cityName": "Thanjavur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.13909,
+      "lat": 10.78523
+    },
+    "population": 291067,
+    "modification_date": "2023-05-20"
+  },
+  {
+    "cityName": "Hisar",
+    "country": "IN",
+    "coordinates": {
+      "lon": 75.72294,
+      "lat": 29.15394
+    },
+    "population": 296436,
+    "modification_date": "2015-06-01"
+  },
+  {
+    "cityName": "Bārāsat",
+    "country": "IN",
+    "coordinates": {
+      "lon": 88.48198,
+      "lat": 22.72154
+    },
+    "population": 298127,
+    "modification_date": "2016-03-10"
+  },
+  {
+    "cityName": "Bilāspur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 82.15543,
+      "lat": 22.08005
+    },
+    "population": 282705,
+    "modification_date": "2017-03-19"
+  },
+  {
+    "cityName": "Rāmpur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 79.02699,
+      "lat": 28.81014
+    },
+    "population": 296418,
+    "modification_date": "2015-06-07"
+  },
+  {
+    "cityName": "Dindigul",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.98036,
+      "lat": 10.36896
+    },
+    "population": 292512,
+    "modification_date": "2021-12-01"
+  },
+  {
+    "cityName": "Aizawl",
+    "country": "IN",
+    "coordinates": {
+      "lon": 92.71791,
+      "lat": 23.72894
+    },
+    "population": 265331,
+    "modification_date": "2014-10-14"
+  },
+  {
+    "cityName": "Kākināda",
+    "country": "IN",
+    "coordinates": {
+      "lon": 82.23809,
+      "lat": 16.96036
+    },
+    "population": 292923,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Baranagar",
+    "country": "IN",
+    "coordinates": {
+      "lon": 88.37727,
+      "lat": 22.64132
+    },
+    "population": 260072,
+    "modification_date": "2023-05-20"
+  },
+  {
+    "cityName": "Bāli",
+    "country": "IN",
+    "coordinates": {
+      "lon": 88.34115,
+      "lat": 22.64859
+    },
+    "population": 296973,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Anantapur",
+    "country": "IN",
+    "coordinates": {
+      "lon": 77.60813,
+      "lat": 14.67784
+    },
+    "population": 240442,
+    "modification_date": "2015-10-04"
+  },
+  {
+    "cityName": "Parbhani",
+    "country": "IN",
+    "coordinates": {
+      "lon": 76.77081,
+      "lat": 19.26855
+    },
+    "population": 289629,
+    "modification_date": "2014-10-13"
+  },
+  {
+    "cityName": "Qarchak",
+    "country": "IR",
+    "coordinates": {
+      "lon": 51.57544,
+      "lat": 35.42867
+    },
+    "population": 251834,
+    "modification_date": "2012-12-04"
+  },
+  {
+    "cityName": "Gorgān",
+    "country": "IR",
+    "coordinates": {
+      "lon": 54.44391,
+      "lat": 36.8427
+    },
+    "population": 244937,
+    "modification_date": "2017-02-04"
+  },
+  {
+    "cityName": "Borūjerd",
+    "country": "IR",
+    "coordinates": {
+      "lon": 48.7516,
+      "lat": 33.8973
+    },
+    "population": 251958,
+    "modification_date": "2014-09-04"
+  },
+  {
+    "cityName": "Khomeynī Shahr",
+    "country": "IR",
+    "coordinates": {
+      "lon": 51.53609,
+      "lat": 32.6856
+    },
+    "population": 277334,
+    "modification_date": "2020-06-11"
+  },
+  {
+    "cityName": "Sari",
+    "country": "IR",
+    "coordinates": {
+      "lon": 53.06009,
+      "lat": 36.56332
+    },
+    "population": 255396,
+    "modification_date": "2013-05-12"
+  },
+  {
+    "cityName": "Verona",
+    "country": "IT",
+    "coordinates": {
+      "lon": 10.98444,
+      "lat": 45.4299
+    },
+    "population": 258031,
+    "modification_date": "2022-09-27"
+  },
+  {
+    "cityName": "Russeifa",
+    "country": "JO",
+    "coordinates": {
+      "lon": 36.04639,
+      "lat": 32.01778
+    },
+    "population": 268237,
+    "modification_date": "2011-05-25"
+  },
+  {
+    "cityName": "Kakogawachō-honmachi",
+    "country": "JP",
+    "coordinates": {
+      "lon": 134.82905,
+      "lat": 34.76943
+    },
+    "population": 271634,
+    "modification_date": "2020-06-11"
+  },
+  {
+    "cityName": "Yokkaichi",
+    "country": "JP",
+    "coordinates": {
+      "lon": 136.61667,
+      "lat": 34.96667
+    },
+    "population": 295841,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Fukui-shi",
+    "country": "JP",
+    "coordinates": {
+      "lon": 136.22257,
+      "lat": 36.06443
+    },
+    "population": 248707,
+    "modification_date": "2017-07-22"
+  },
+  {
+    "cityName": "Fuji",
+    "country": "JP",
+    "coordinates": {
+      "lon": 138.68333,
+      "lat": 35.16667
+    },
+    "population": 245015,
+    "modification_date": "2022-09-03"
+  },
+  {
+    "cityName": "Yamagata",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.36667,
+      "lat": 38.23333
+    },
+    "population": 248772,
+    "modification_date": "2022-08-15"
+  },
+  {
+    "cityName": "Chigasaki",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.40434,
+      "lat": 35.33638
+    },
+    "population": 242798,
+    "modification_date": "2022-09-03"
+  },
+  {
+    "cityName": "Akashi",
+    "country": "JP",
+    "coordinates": {
+      "lon": 135.00687,
+      "lat": 34.65524
+    },
+    "population": 297279,
+    "modification_date": "2017-07-28"
+  },
+  {
+    "cityName": "Yao",
+    "country": "JP",
+    "coordinates": {
+      "lon": 135.6,
+      "lat": 34.61667
+    },
+    "population": 273213,
+    "modification_date": "2017-07-22"
+  },
+  {
+    "cityName": "Hakodate",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.73667,
+      "lat": 41.77583
+    },
+    "population": 275730,
+    "modification_date": "2017-07-22"
+  },
+  {
+    "cityName": "Tokushima",
+    "country": "JP",
+    "coordinates": {
+      "lon": 134.56667,
+      "lat": 34.06667
+    },
+    "population": 267345,
+    "modification_date": "2017-04-09"
+  },
+  {
+    "cityName": "Shimonoseki",
+    "country": "JP",
+    "coordinates": {
+      "lon": 130.93713,
+      "lat": 33.95548
+    },
+    "population": 265684,
+    "modification_date": "2023-01-19"
+  },
+  {
+    "cityName": "Mito",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.45,
+      "lat": 36.35
+    },
+    "population": 246538,
+    "modification_date": "2017-04-09"
+  },
+  {
+    "cityName": "Sōka",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.79957,
+      "lat": 35.83643
+    },
+    "population": 249645,
+    "modification_date": "2022-09-03"
+  },
+  {
+    "cityName": "Ibaraki",
+    "country": "JP",
+    "coordinates": {
+      "lon": 135.56828,
+      "lat": 34.81641
+    },
+    "population": 280562,
+    "modification_date": "2022-09-02"
+  },
+  {
+    "cityName": "Hiratsuka",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.33735,
+      "lat": 35.32785
+    },
+    "population": 257316,
+    "modification_date": "2022-09-03"
+  },
+  {
+    "cityName": "Yamato",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.45101,
+      "lat": 35.47276
+    },
+    "population": 242065,
+    "modification_date": "2022-09-07"
+  },
+  {
+    "cityName": "Maebashi",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.08333,
+      "lat": 36.4
+    },
+    "population": 282711,
+    "modification_date": "2017-04-09"
+  },
+  {
+    "cityName": "Ichihara",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.08333,
+      "lat": 35.51667
+    },
+    "population": 283531,
+    "modification_date": "2017-07-22"
+  },
+  {
+    "cityName": "Aomori",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.73333,
+      "lat": 40.81667
+    },
+    "population": 298394,
+    "modification_date": "2017-08-03"
+  },
+  {
+    "cityName": "Kasugai",
+    "country": "JP",
+    "coordinates": {
+      "lon": 136.97229,
+      "lat": 35.24762
+    },
+    "population": 298589,
+    "modification_date": "2017-07-26"
+  },
+  {
+    "cityName": "Fukushima",
+    "country": "JP",
+    "coordinates": {
+      "lon": 140.46667,
+      "lat": 37.75
+    },
+    "population": 294237,
+    "modification_date": "2017-04-09"
+  },
+  {
+    "cityName": "Fuchū",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.48216,
+      "lat": 35.67452
+    },
+    "population": 260508,
+    "modification_date": "2022-09-21"
+  },
+  {
+    "cityName": "Morioka",
+    "country": "JP",
+    "coordinates": {
+      "lon": 141.15,
+      "lat": 39.7
+    },
+    "population": 290700,
+    "modification_date": "2022-08-15"
+  },
+  {
+    "cityName": "Nakuru",
+    "country": "KE",
+    "coordinates": {
+      "lon": 36.07225,
+      "lat": -0.30719
+    },
+    "population": 259903,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Sinŭiju",
+    "country": "KP",
+    "coordinates": {
+      "lon": 124.39806,
+      "lat": 40.10056
+    },
+    "population": 288112,
+    "modification_date": "2020-06-11"
+  },
+  {
+    "cityName": "Mokpo",
+    "country": "KR",
+    "coordinates": {
+      "lon": 126.39181,
+      "lat": 34.81282
+    },
+    "population": 268402,
+    "modification_date": "2023-03-27"
+  },
+  {
+    "cityName": "Gunpo",
+    "country": "KR",
+    "coordinates": {
+      "lon": 126.94694,
+      "lat": 37.3675
+    },
+    "population": 286485,
+    "modification_date": "2021-12-03"
+  },
+  {
+    "cityName": "Hanam",
+    "country": "KR",
+    "coordinates": {
+      "lon": 127.20556,
+      "lat": 37.54
+    },
+    "population": 254415,
+    "modification_date": "2021-12-03"
+  },
+  {
+    "cityName": "Gunsan",
+    "country": "KR",
+    "coordinates": {
+      "lon": 126.71139,
+      "lat": 35.97861
+    },
+    "population": 243406,
+    "modification_date": "2019-10-24"
+  },
+  {
+    "cityName": "Yeosu",
+    "country": "KR",
+    "coordinates": {
+      "lon": 127.66215,
+      "lat": 34.76062
+    },
+    "population": 295538,
+    "modification_date": "2019-04-15"
+  },
+  {
+    "cityName": "Atyrau",
+    "country": "KZ",
+    "coordinates": {
+      "lon": 51.88333,
+      "lat": 47.11667
+    },
+    "population": 290700,
+    "modification_date": "2022-09-27"
+  },
+  {
+    "cityName": "Semey",
+    "country": "KZ",
+    "coordinates": {
+      "lon": 80.26669,
+      "lat": 50.42675
+    },
+    "population": 292780,
+    "modification_date": "2023-01-24"
+  },
+  {
+    "cityName": "Kaunas",
+    "country": "LT",
+    "coordinates": {
+      "lon": 23.90961,
+      "lat": 54.90272
+    },
+    "population": 289380,
+    "modification_date": "2022-09-26"
+  },
+  {
+    "cityName": "Safi",
+    "country": "MA",
+    "coordinates": {
+      "lon": -9.23718,
+      "lat": 32.29939
+    },
+    "population": 288163,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Antsirabe",
+    "country": "MG",
+    "coordinates": {
+      "lon": 47.03333,
+      "lat": -19.86586
+    },
+    "population": 265018,
+    "modification_date": "2022-09-26"
+  },
+  {
+    "cityName": "Mahajanga",
+    "country": "MG",
+    "coordinates": {
+      "lon": 46.31667,
+      "lat": -15.71667
+    },
+    "population": 246022,
+    "modification_date": "2022-09-26"
+  },
+  {
+    "cityName": "Bago",
+    "country": "MM",
+    "coordinates": {
+      "lon": 96.48135,
+      "lat": 17.33521
+    },
+    "population": 244376,
+    "modification_date": "2016-06-01"
+  },
+  {
+    "cityName": "Kyain Seikgyi Township",
+    "country": "MM",
+    "coordinates": {
+      "lon": 98.25257,
+      "lat": 15.82288
+    },
+    "population": 246065,
+    "modification_date": "2018-02-02"
+  },
+  {
+    "cityName": "Santa Catarina",
+    "country": "MX",
+    "coordinates": {
+      "lon": -100.45813,
+      "lat": 25.67325
+    },
+    "population": 268347,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "La Paz",
+    "country": "MX",
+    "coordinates": {
+      "lon": -110.31316,
+      "lat": 24.14231
+    },
+    "population": 250141,
+    "modification_date": "2022-09-26"
+  },
+  {
+    "cityName": "Tehuacán",
+    "country": "MX",
+    "coordinates": {
+      "lon": -97.39735,
+      "lat": 18.46422
+    },
+    "population": 248716,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "Gómez Palacio",
+    "country": "MX",
+    "coordinates": {
+      "lon": -103.49588,
+      "lat": 25.56985
+    },
+    "population": 257352,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Colonia del Valle",
+    "country": "MX",
+    "coordinates": {
+      "lon": -99.16204,
+      "lat": 19.38611
+    },
+    "population": 250000,
+    "modification_date": "2015-06-22"
+  },
+  {
+    "cityName": "Pachuca de Soto",
+    "country": "MX",
+    "coordinates": {
+      "lon": -98.73329,
+      "lat": 20.11697
+    },
+    "population": 256584,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "Ojo de Agua",
+    "country": "MX",
+    "coordinates": {
+      "lon": -99.01,
+      "lat": 19.68028
+    },
+    "population": 242272,
+    "modification_date": "2013-08-01"
+  },
+  {
+    "cityName": "Los Mochis",
+    "country": "MX",
+    "coordinates": {
+      "lon": -108.99808,
+      "lat": 25.79302
+    },
+    "population": 256613,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "Oaxaca",
+    "country": "MX",
+    "coordinates": {
+      "lon": -96.72365,
+      "lat": 17.06542
+    },
+    "population": 255029,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "Salamanca",
+    "country": "MX",
+    "coordinates": {
+      "lon": -101.19154,
+      "lat": 20.57196
+    },
+    "population": 273417,
+    "modification_date": "2023-02-01"
+  },
+  {
+    "cityName": "Nicolás Romero",
+    "country": "MX",
+    "coordinates": {
+      "lon": -99.3068,
+      "lat": 19.64177
+    },
+    "population": 281799,
+    "modification_date": "2018-11-26"
+  },
+  {
+    "cityName": "Ensenada",
+    "country": "MX",
+    "coordinates": {
+      "lon": -116.60071,
+      "lat": 31.87149
+    },
+    "population": 279765,
+    "modification_date": "2019-05-05"
+  },
+  {
+    "cityName": "Coacalco",
+    "country": "MX",
+    "coordinates": {
+      "lon": -99.10689,
+      "lat": 19.62923
+    },
+    "population": 277959,
+    "modification_date": "2018-11-03"
+  },
+  {
+    "cityName": "Windhoek",
+    "country": "NA",
+    "coordinates": {
+      "lon": 17.08323,
+      "lat": -22.55941
+    },
+    "population": 268132,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Umuahia",
+    "country": "NG",
+    "coordinates": {
+      "lon": 7.49461,
+      "lat": 5.52491
+    },
+    "population": 264662,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Jimeta",
+    "country": "NG",
+    "coordinates": {
+      "lon": 12.45819,
+      "lat": 9.27949
+    },
+    "population": 248148,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Iwo",
+    "country": "NG",
+    "coordinates": {
+      "lon": 4.18156,
+      "lat": 7.63527
+    },
+    "population": 250443,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Ikot Ekpene",
+    "country": "NG",
+    "coordinates": {
+      "lon": 7.71481,
+      "lat": 5.18194
+    },
+    "population": 254806,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Ondo",
+    "country": "NG",
+    "coordinates": {
+      "lon": 4.83528,
+      "lat": 7.09316
+    },
+    "population": 257005,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Efon-Alaaye",
+    "country": "NG",
+    "coordinates": {
+      "lon": 4.92235,
+      "lat": 7.65649
+    },
+    "population": 279319,
+    "modification_date": "2018-03-22"
+  },
+  {
+    "cityName": "Gombe",
+    "country": "NG",
+    "coordinates": {
+      "lon": 11.16729,
+      "lat": 10.28969
+    },
+    "population": 250258,
+    "modification_date": "2018-01-18"
+  },
+  {
+    "cityName": "Ilesa",
+    "country": "NG",
+    "coordinates": {
+      "lon": 4.74161,
+      "lat": 7.62789
+    },
+    "population": 277904,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Makurdi",
+    "country": "NG",
+    "coordinates": {
+      "lon": 8.52139,
+      "lat": 7.73375
+    },
+    "population": 292645,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Owo",
+    "country": "NG",
+    "coordinates": {
+      "lon": 5.58681,
+      "lat": 7.1962
+    },
+    "population": 276574,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Minna",
+    "country": "NG",
+    "coordinates": {
+      "lon": 6.54776,
+      "lat": 9.61524
+    },
+    "population": 291905,
+    "modification_date": "2016-01-30"
+  },
+  {
+    "cityName": "Bergen",
+    "country": "NO",
+    "coordinates": {
+      "lon": 5.32415,
+      "lat": 60.39299
+    },
+    "population": 285911,
+    "modification_date": "2022-08-21"
+  },
+  {
+    "cityName": "Birgañj",
+    "country": "NP",
+    "coordinates": {
+      "lon": 84.8808,
+      "lat": 27.01709
+    },
+    "population": 268273,
+    "modification_date": "2022-12-04"
+  },
+  {
+    "cityName": "Pātan",
+    "country": "NP",
+    "coordinates": {
+      "lon": 85.31417,
+      "lat": 27.67658
+    },
+    "population": 299283,
+    "modification_date": "2022-12-04"
+  },
+  {
+    "cityName": "Biratnagar",
+    "country": "NP",
+    "coordinates": {
+      "lon": 87.27007,
+      "lat": 26.45505
+    },
+    "population": 244750,
+    "modification_date": "2022-12-04"
+  },
+  {
+    "cityName": "Santiago de Surco",
+    "country": "PE",
+    "coordinates": {
+      "lon": -77.00742,
+      "lat": -12.13588
+    },
+    "population": 251648,
+    "modification_date": "2016-01-07"
+  },
+  {
+    "cityName": "Ica",
+    "country": "PE",
+    "coordinates": {
+      "lon": -75.72861,
+      "lat": -14.06777
+    },
+    "population": 282407,
+    "modification_date": "2022-08-20"
+  },
+  {
+    "cityName": "Tacna",
+    "country": "PE",
+    "coordinates": {
+      "lon": -70.25362,
+      "lat": -18.01465
+    },
+    "population": 286240,
+    "modification_date": "2022-08-20"
+  },
+  {
+    "cityName": "Juliaca",
+    "country": "PE",
+    "coordinates": {
+      "lon": -70.13333,
+      "lat": -15.5
+    },
+    "population": 245675,
+    "modification_date": "2012-07-19"
+  },
+  {
+    "cityName": "Port Moresby",
+    "country": "PG",
+    "coordinates": {
+      "lon": 147.15089,
+      "lat": -9.47723
+    },
+    "population": 283733,
+    "modification_date": "2022-03-06"
+  },
+  {
+    "cityName": "Santol",
+    "country": "PH",
+    "coordinates": {
+      "lon": 120.5675,
+      "lat": 15.16222
+    },
+    "population": 298976,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "San Fernando",
+    "country": "PH",
+    "coordinates": {
+      "lon": 120.68445,
+      "lat": 15.03425
+    },
+    "population": 251248,
+    "modification_date": "2021-06-10"
+  },
+  {
+    "cityName": "Mantampay",
+    "country": "PH",
+    "coordinates": {
+      "lon": 124.21667,
+      "lat": 8.16667
+    },
+    "population": 265032,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "San Pedro",
+    "country": "PH",
+    "coordinates": {
+      "lon": 121.0473,
+      "lat": 14.3595
+    },
+    "population": 270216,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "Tacloban",
+    "country": "PH",
+    "coordinates": {
+      "lon": 125.00472,
+      "lat": 11.24333
+    },
+    "population": 242089,
+    "modification_date": "2020-11-01"
+  },
+  {
+    "cityName": "Libertad",
+    "country": "PH",
+    "coordinates": {
+      "lon": 125.50194,
+      "lat": 8.94417
+    },
+    "population": 250353,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "Baguio",
+    "country": "PH",
+    "coordinates": {
+      "lon": 120.59306,
+      "lat": 16.41639
+    },
+    "population": 272714,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "Cainta",
+    "country": "PH",
+    "coordinates": {
+      "lon": 121.1222,
+      "lat": 14.5786
+    },
+    "population": 283172,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "Navotas",
+    "country": "PH",
+    "coordinates": {
+      "lon": 120.95,
+      "lat": 14.66667
+    },
+    "population": 249463,
+    "modification_date": "2017-12-15"
+  },
+  {
+    "cityName": "Angeles City",
+    "country": "PH",
+    "coordinates": {
+      "lon": 120.58333,
+      "lat": 15.15
+    },
+    "population": 299391,
+    "modification_date": "2017-12-13"
+  },
+  {
+    "cityName": "Kasur",
+    "country": "PK",
+    "coordinates": {
+      "lon": 74.45025,
+      "lat": 31.11866
+    },
+    "population": 290643,
+    "modification_date": "2019-12-06"
+  },
+  {
+    "cityName": "Mingora",
+    "country": "PK",
+    "coordinates": {
+      "lon": 72.36265,
+      "lat": 34.7795
+    },
+    "population": 279914,
+    "modification_date": "2019-12-06"
+  },
+  {
+    "cityName": "Białystok",
+    "country": "PL",
+    "coordinates": {
+      "lon": 23.16433,
+      "lat": 53.13333
+    },
+    "population": 291855,
+    "modification_date": "2021-08-03"
+  },
+  {
+    "cityName": "Gdynia",
+    "country": "PL",
+    "coordinates": {
+      "lon": 18.53188,
+      "lat": 54.51889
+    },
+    "population": 244969,
+    "modification_date": "2021-11-19"
+  },
+  {
+    "cityName": "Częstochowa",
+    "country": "PL",
+    "coordinates": {
+      "lon": 19.12409,
+      "lat": 50.79646
+    },
+    "population": 248125,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Porto",
+    "country": "PT",
+    "coordinates": {
+      "lon": -8.61099,
+      "lat": 41.14961
+    },
+    "population": 249633,
+    "modification_date": "2018-03-15"
+  },
+  {
+    "cityName": "Ar Rayyān",
+    "country": "QA",
+    "coordinates": {
+      "lon": 51.42444,
+      "lat": 25.29194
+    },
+    "population": 272465,
+    "modification_date": "2020-06-10"
+  },
+  {
+    "cityName": "Sector 4",
+    "country": "RO",
+    "coordinates": {
+      "lon": 26.12085,
+      "lat": 44.37571
+    },
+    "population": 287828,
+    "modification_date": "2017-11-24"
+  },
+  {
+    "cityName": "Sector 5",
+    "country": "RO",
+    "coordinates": {
+      "lon": 26.07144,
+      "lat": 44.38808
+    },
+    "population": 271575,
+    "modification_date": "2017-11-24"
+  },
+  {
+    "cityName": "Galaţi",
+    "country": "RO",
+    "coordinates": {
+      "lon": 28.05028,
+      "lat": 45.43687
+    },
+    "population": 294087,
+    "modification_date": "2019-04-18"
+  },
+  {
+    "cityName": "Braşov",
+    "country": "RO",
+    "coordinates": {
+      "lon": 25.60613,
+      "lat": 45.64861
+    },
+    "population": 253200,
+    "modification_date": "2022-09-04"
+  },
+  {
+    "cityName": "Niš",
+    "country": "RS",
+    "coordinates": {
+      "lon": 21.90333,
+      "lat": 43.32472
+    },
+    "population": 250000,
+    "modification_date": "2020-01-31"
+  },
+  {
+    "cityName": "Syktyvkar",
+    "country": "RU",
+    "coordinates": {
+      "lon": 50.815,
+      "lat": 61.664
+    },
+    "population": 245083,
+    "modification_date": "2022-10-08"
+  },
+  {
+    "cityName": "Sterlitamak",
+    "country": "RU",
+    "coordinates": {
+      "lon": 55.95015,
+      "lat": 53.62462
+    },
+    "population": 267231,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Yoshkar-Ola",
+    "country": "RU",
+    "coordinates": {
+      "lon": 47.89078,
+      "lat": 56.63877
+    },
+    "population": 268272,
+    "modification_date": "2022-08-18"
+  },
+  {
+    "cityName": "Orsk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 58.56685,
+      "lat": 51.20487
+    },
+    "population": 246836,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Murmansk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 33.09251,
+      "lat": 68.97917
+    },
+    "population": 295374,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Komsomolsk-on-Amur",
+    "country": "RU",
+    "coordinates": {
+      "lon": 137.00995,
+      "lat": 50.55034
+    },
+    "population": 275908,
+    "modification_date": "2022-10-07"
+  },
+  {
+    "cityName": "Tambov",
+    "country": "RU",
+    "coordinates": {
+      "lon": 41.44326,
+      "lat": 52.73169
+    },
+    "population": 293661,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Angarsk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 103.88639,
+      "lat": 52.53667
+    },
+    "population": 243158,
+    "modification_date": "2022-10-08"
+  },
+  {
+    "cityName": "Taganrog",
+    "country": "RU",
+    "coordinates": {
+      "lon": 38.9053,
+      "lat": 47.23627
+    },
+    "population": 279056,
+    "modification_date": "2022-10-07"
+  },
+  {
+    "cityName": "Nizhnevartovsk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 76.5531,
+      "lat": 60.9344
+    },
+    "population": 244937,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Petrozavodsk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 34.34691,
+      "lat": 61.78491
+    },
+    "population": 279190,
+    "modification_date": "2022-10-07"
+  },
+  {
+    "cityName": "Bratsk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 101.61417,
+      "lat": 56.1325
+    },
+    "population": 256600,
+    "modification_date": "2022-10-08"
+  },
+  {
+    "cityName": "Kostroma",
+    "country": "RU",
+    "coordinates": {
+      "lon": 40.92686,
+      "lat": 57.76647
+    },
+    "population": 277280,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Novorossiysk",
+    "country": "RU",
+    "coordinates": {
+      "lon": 37.76752,
+      "lat": 44.72439
+    },
+    "population": 241856,
+    "modification_date": "2022-10-05"
+  },
+  {
+    "cityName": "Mar’ino",
+    "country": "RU",
+    "coordinates": {
+      "lon": 37.71667,
+      "lat": 55.65
+    },
+    "population": 243000,
+    "modification_date": "2013-04-02"
+  },
+  {
+    "cityName": "Groznyy",
+    "country": "RU",
+    "coordinates": {
+      "lon": 45.68895,
+      "lat": 43.31195
+    },
+    "population": 297137,
+    "modification_date": "2022-08-18"
+  },
+  {
+    "cityName": "Hafar Al-Batin",
+    "country": "SA",
+    "coordinates": {
+      "lon": 45.97077,
+      "lat": 28.43279
+    },
+    "population": 271642,
+    "modification_date": "2017-09-12"
+  },
+  {
+    "cityName": "Al Hufūf",
+    "country": "SA",
+    "coordinates": {
+      "lon": 49.58764,
+      "lat": 25.36467
+    },
+    "population": 293179,
+    "modification_date": "2017-10-03"
+  },
+  {
+    "cityName": "Al Mubarraz",
+    "country": "SA",
+    "coordinates": {
+      "lon": 49.59028,
+      "lat": 25.40768
+    },
+    "population": 290802,
+    "modification_date": "2017-10-03"
+  },
+  {
+    "cityName": "Singa",
+    "country": "SD",
+    "coordinates": {
+      "lon": 33.93117,
+      "lat": 13.1483
+    },
+    "population": 250000,
+    "modification_date": "2016-07-17"
+  },
+  {
+    "cityName": "El Fasher",
+    "country": "SD",
+    "coordinates": {
+      "lon": 25.34936,
+      "lat": 13.62793
+    },
+    "population": 252609,
+    "modification_date": "2013-12-14"
+  },
+  {
+    "cityName": "El Daein",
+    "country": "SD",
+    "coordinates": {
+      "lon": 26.12583,
+      "lat": 11.46186
+    },
+    "population": 264734,
+    "modification_date": "2013-08-10"
+  },
+  {
+    "cityName": "Woodlands",
+    "country": "SG",
+    "coordinates": {
+      "lon": 103.78877,
+      "lat": 1.43801
+    },
+    "population": 252530,
+    "modification_date": "2019-08-08"
+  },
+  {
+    "cityName": "Ljubljana",
+    "country": "SI",
+    "coordinates": {
+      "lon": 14.50513,
+      "lat": 46.05108
+    },
+    "population": 272220,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Saint-Louis",
+    "country": "SN",
+    "coordinates": {
+      "lon": -16.48962,
+      "lat": 16.01793
+    },
+    "population": 258592,
+    "modification_date": "2022-08-17"
+  },
+  {
+    "cityName": "Thiès Nones",
+    "country": "SN",
+    "coordinates": {
+      "lon": -16.96667,
+      "lat": 14.78333
+    },
+    "population": 252320,
+    "modification_date": "2018-07-04"
+  },
+  {
+    "cityName": "Berbera",
+    "country": "SO",
+    "coordinates": {
+      "lon": 45.01432,
+      "lat": 10.43959
+    },
+    "population": 242344,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Yei",
+    "country": "SS",
+    "coordinates": {
+      "lon": 30.67639,
+      "lat": 4.09444
+    },
+    "population": 260720,
+    "modification_date": "2022-01-10"
+  },
+  {
+    "cityName": "San Miguel",
+    "country": "SV",
+    "coordinates": {
+      "lon": -88.18333,
+      "lat": 13.48333
+    },
+    "population": 247126,
+    "modification_date": "2022-08-13"
+  },
+  {
+    "cityName": "Deir ez-Zor",
+    "country": "SY",
+    "coordinates": {
+      "lon": 40.14084,
+      "lat": 35.33588
+    },
+    "population": 271800,
+    "modification_date": "2023-04-21"
+  },
+  {
+    "cityName": "Mueang Nonthaburi",
+    "country": "TH",
+    "coordinates": {
+      "lon": 100.51477,
+      "lat": 13.86075
+    },
+    "population": 254375,
+    "modification_date": "2023-03-05"
+  },
+  {
+    "cityName": "Isfara",
+    "country": "TJ",
+    "coordinates": {
+      "lon": 70.62526,
+      "lat": 40.12649
+    },
+    "population": 274000,
+    "modification_date": "2022-09-21"
+  },
+  {
+    "cityName": "Istaravshan",
+    "country": "TJ",
+    "coordinates": {
+      "lon": 69.00328,
+      "lat": 39.9142
+    },
+    "population": 273500,
+    "modification_date": "2022-09-21"
+  },
+  {
+    "cityName": "Sfax",
+    "country": "TN",
+    "coordinates": {
+      "lon": 10.76028,
+      "lat": 34.74056
+    },
+    "population": 277278,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Trabzon",
+    "country": "TR",
+    "coordinates": {
+      "lon": 39.72694,
+      "lat": 41.005
+    },
+    "population": 244083,
+    "modification_date": "2020-07-23"
+  },
+  {
+    "cityName": "Sultanbeyli",
+    "country": "TR",
+    "coordinates": {
+      "lon": 29.27067,
+      "lat": 40.96072
+    },
+    "population": 286622,
+    "modification_date": "2018-03-09"
+  },
+  {
+    "cityName": "Adapazarı",
+    "country": "TR",
+    "coordinates": {
+      "lon": 30.40333,
+      "lat": 40.78056
+    },
+    "population": 286787,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Sancaktepe",
+    "country": "TR",
+    "coordinates": {
+      "lon": 29.23187,
+      "lat": 41.00244
+    },
+    "population": 241000,
+    "modification_date": "2011-01-04"
+  },
+  {
+    "cityName": "Zeytinburnu",
+    "country": "TR",
+    "coordinates": {
+      "lon": 28.90417,
+      "lat": 40.99441
+    },
+    "population": 288743,
+    "modification_date": "2011-01-04"
+  },
+  {
+    "cityName": "Manisa",
+    "country": "TR",
+    "coordinates": {
+      "lon": 27.42647,
+      "lat": 38.61202
+    },
+    "population": 243971,
+    "modification_date": "2015-08-01"
+  },
+  {
+    "cityName": "Sivas",
+    "country": "TR",
+    "coordinates": {
+      "lon": 37.01611,
+      "lat": 39.74833
+    },
+    "population": 264022,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Merkezefendi",
+    "country": "TR",
+    "coordinates": {
+      "lon": 29.04236,
+      "lat": 37.80544
+    },
+    "population": 280341,
+    "modification_date": "2016-08-30"
+  },
+  {
+    "cityName": "Adıyaman",
+    "country": "TR",
+    "coordinates": {
+      "lon": 38.27629,
+      "lat": 37.76441
+    },
+    "population": 267131,
+    "modification_date": "2023-03-01"
+  },
+  {
+    "cityName": "Gebze",
+    "country": "TR",
+    "coordinates": {
+      "lon": 29.43068,
+      "lat": 40.80276
+    },
+    "population": 281436,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Afyonkarahisar",
+    "country": "TR",
+    "coordinates": {
+      "lon": 30.54333,
+      "lat": 38.75667
+    },
+    "population": 251799,
+    "modification_date": "2023-04-23"
+  },
+  {
+    "cityName": "Çorum",
+    "country": "TR",
+    "coordinates": {
+      "lon": 34.95333,
+      "lat": 40.54889
+    },
+    "population": 269595,
+    "modification_date": "2023-04-23"
+  },
+  {
+    "cityName": "Aksaray",
+    "country": "TR",
+    "coordinates": {
+      "lon": 34.02537,
+      "lat": 38.37255
+    },
+    "population": 247147,
+    "modification_date": "2023-04-23"
+  },
+  {
+    "cityName": "Neihu",
+    "country": "TW",
+    "coordinates": {
+      "lon": 121.58809,
+      "lat": 25.0815
+    },
+    "population": 271594,
+    "modification_date": "2022-10-20"
+  },
+  {
+    "cityName": "Morogoro",
+    "country": "TZ",
+    "coordinates": {
+      "lon": 37.66122,
+      "lat": -6.82102
+    },
+    "population": 250902,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Mbeya",
+    "country": "TZ",
+    "coordinates": {
+      "lon": 33.45,
+      "lat": -8.9
+    },
+    "population": 291649,
+    "modification_date": "2016-07-26"
+  },
+  {
+    "cityName": "Chernivtsi",
+    "country": "UA",
+    "coordinates": {
+      "lon": 25.93241,
+      "lat": 48.29045
+    },
+    "population": 265471,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Zhytomyr",
+    "country": "UA",
+    "coordinates": {
+      "lon": 28.67669,
+      "lat": 50.26487
+    },
+    "population": 261624,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Kherson",
+    "country": "UA",
+    "coordinates": {
+      "lon": 32.61458,
+      "lat": 46.63695
+    },
+    "population": 283649,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Chernihiv",
+    "country": "UA",
+    "coordinates": {
+      "lon": 31.28487,
+      "lat": 51.50551
+    },
+    "population": 285234,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Rivne",
+    "country": "UA",
+    "coordinates": {
+      "lon": 26.22743,
+      "lat": 50.62308
+    },
+    "population": 245289,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Poltava",
+    "country": "UA",
+    "coordinates": {
+      "lon": 34.55367,
+      "lat": 49.58925
+    },
+    "population": 283402,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Sumy",
+    "country": "UA",
+    "coordinates": {
+      "lon": 34.80029,
+      "lat": 50.9216
+    },
+    "population": 259660,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Cherkasy",
+    "country": "UA",
+    "coordinates": {
+      "lon": 32.05738,
+      "lat": 49.44452
+    },
+    "population": 272651,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "Khmelnytskyi",
+    "country": "UA",
+    "coordinates": {
+      "lon": 26.97936,
+      "lat": 49.41835
+    },
+    "population": 274582,
+    "modification_date": "2023-01-22"
+  },
+  {
+    "cityName": "St. Petersburg",
+    "country": "US",
+    "coordinates": {
+      "lon": -82.67927,
+      "lat": 27.77086
+    },
+    "population": 257083,
+    "modification_date": "2019-10-16"
+  },
+  {
+    "cityName": "Buffalo",
+    "country": "US",
+    "coordinates": {
+      "lon": -78.87837,
+      "lat": 42.88645
+    },
+    "population": 258071,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Irvine",
+    "country": "US",
+    "coordinates": {
+      "lon": -117.82311,
+      "lat": 33.66946
+    },
+    "population": 256927,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Chandler",
+    "country": "US",
+    "coordinates": {
+      "lon": -111.84125,
+      "lat": 33.30616
+    },
+    "population": 260828,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Gilbert",
+    "country": "US",
+    "coordinates": {
+      "lon": -111.78903,
+      "lat": 33.35283
+    },
+    "population": 247542,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Tri-Cities",
+    "country": "US",
+    "coordinates": {
+      "lon": -119.19617,
+      "lat": 46.2454
+    },
+    "population": 244036,
+    "modification_date": "2022-08-24"
+  },
+  {
+    "cityName": "Durham",
+    "country": "US",
+    "coordinates": {
+      "lon": -78.89862,
+      "lat": 35.99403
+    },
+    "population": 257636,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Lubbock",
+    "country": "US",
+    "coordinates": {
+      "lon": -101.85517,
+      "lat": 33.57786
+    },
+    "population": 249042,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Newark",
+    "country": "US",
+    "coordinates": {
+      "lon": -74.17237,
+      "lat": 40.73566
+    },
+    "population": 281944,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Ironville",
+    "country": "US",
+    "coordinates": {
+      "lon": -82.69238,
+      "lat": 38.45647
+    },
+    "population": 288649,
+    "modification_date": "2012-07-14"
+  },
+  {
+    "cityName": "Reno",
+    "country": "US",
+    "coordinates": {
+      "lon": -119.8138,
+      "lat": 39.52963
+    },
+    "population": 241445,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Winston-Salem",
+    "country": "US",
+    "coordinates": {
+      "lon": -80.24422,
+      "lat": 36.09986
+    },
+    "population": 241218,
+    "modification_date": "2017-05-26"
+  },
+  {
+    "cityName": "Henderson",
+    "country": "US",
+    "coordinates": {
+      "lon": -114.98194,
+      "lat": 36.0397
+    },
+    "population": 285667,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Anchorage",
+    "country": "US",
+    "coordinates": {
+      "lon": -149.90028,
+      "lat": 61.21806
+    },
+    "population": 291247,
+    "modification_date": "2022-08-24"
+  },
+  {
+    "cityName": "Saint Paul",
+    "country": "US",
+    "coordinates": {
+      "lon": -93.09327,
+      "lat": 44.94441
+    },
+    "population": 285068,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Toledo",
+    "country": "US",
+    "coordinates": {
+      "lon": -83.55521,
+      "lat": 41.66394
+    },
+    "population": 279789,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Meads",
+    "country": "US",
+    "coordinates": {
+      "lon": -82.70905,
+      "lat": 38.41258
+    },
+    "population": 288649,
+    "modification_date": "2012-07-14"
+  },
+  {
+    "cityName": "Greensboro",
+    "country": "US",
+    "coordinates": {
+      "lon": -79.79198,
+      "lat": 36.07264
+    },
+    "population": 285342,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Plano",
+    "country": "US",
+    "coordinates": {
+      "lon": -96.69889,
+      "lat": 33.01984
+    },
+    "population": 283558,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Louisville",
+    "country": "US",
+    "coordinates": {
+      "lon": -85.75941,
+      "lat": 38.25424
+    },
+    "population": 243639,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Glendale",
+    "country": "US",
+    "coordinates": {
+      "lon": -112.18599,
+      "lat": 33.53865
+    },
+    "population": 240126,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Jersey City",
+    "country": "US",
+    "coordinates": {
+      "lon": -74.07764,
+      "lat": 40.72816
+    },
+    "population": 264290,
+    "modification_date": "2017-05-23"
+  },
+  {
+    "cityName": "Chula Vista",
+    "country": "US",
+    "coordinates": {
+      "lon": -117.0842,
+      "lat": 32.64005
+    },
+    "population": 265757,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Madison",
+    "country": "US",
+    "coordinates": {
+      "lon": -89.40123,
+      "lat": 43.07305
+    },
+    "population": 248951,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Fort Wayne",
+    "country": "US",
+    "coordinates": {
+      "lon": -85.12886,
+      "lat": 41.1306
+    },
+    "population": 260326,
+    "modification_date": "2017-05-23"
+  },
+  {
+    "cityName": "Laredo",
+    "country": "US",
+    "coordinates": {
+      "lon": -99.50754,
+      "lat": 27.50641
+    },
+    "population": 255473,
+    "modification_date": "2017-03-09"
+  },
+  {
+    "cityName": "Norfolk",
+    "country": "US",
+    "coordinates": {
+      "lon": -76.28522,
+      "lat": 36.84681
+    },
+    "population": 246393,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Lincoln",
+    "country": "US",
+    "coordinates": {
+      "lon": -96.66696,
+      "lat": 40.8
+    },
+    "population": 277348,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Marg‘ilon",
+    "country": "UZ",
+    "coordinates": {
+      "lon": 71.72463,
+      "lat": 40.47237
+    },
+    "population": 242500,
+    "modification_date": "2022-10-11"
+  },
+  {
+    "cityName": "Bukhara",
+    "country": "UZ",
+    "coordinates": {
+      "lon": 64.42861,
+      "lat": 39.77472
+    },
+    "population": 280187,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Qarshi",
+    "country": "UZ",
+    "coordinates": {
+      "lon": 65.78905,
+      "lat": 38.86056
+    },
+    "population": 278300,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Qo‘qon",
+    "country": "UZ",
+    "coordinates": {
+      "lon": 70.9425,
+      "lat": 40.52861
+    },
+    "population": 259700,
+    "modification_date": "2022-10-11"
+  },
+  {
+    "cityName": "Fergana",
+    "country": "UZ",
+    "coordinates": {
+      "lon": 71.78432,
+      "lat": 40.38421
+    },
+    "population": 299200,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Cabimas",
+    "country": "VE",
+    "coordinates": {
+      "lon": -71.45206,
+      "lat": 10.39907
+    },
+    "population": 291147,
+    "modification_date": "2023-05-13"
+  },
+  {
+    "cityName": "Santa Teresa del Tuy",
+    "country": "VE",
+    "coordinates": {
+      "lon": -66.66474,
+      "lat": 10.23291
+    },
+    "population": 278890,
+    "modification_date": "2023-05-13"
+  },
+  {
+    "cityName": "Valera",
+    "country": "VE",
+    "coordinates": {
+      "lon": -70.60361,
+      "lat": 9.31778
+    },
+    "population": 244708,
+    "modification_date": "2021-10-27"
+  },
+  {
+    "cityName": "Alto Barinas",
+    "country": "VE",
+    "coordinates": {
+      "lon": -70.2261,
+      "lat": 8.5931
+    },
+    "population": 284289,
+    "modification_date": "2023-05-13"
+  },
+  {
+    "cityName": "Los Teques",
+    "country": "VE",
+    "coordinates": {
+      "lon": -67.04325,
+      "lat": 10.34447
+    },
+    "population": 252242,
+    "modification_date": "2023-02-25"
+  },
+  {
+    "cityName": "Coro",
+    "country": "VE",
+    "coordinates": {
+      "lon": -69.67344,
+      "lat": 11.4045
+    },
+    "population": 246657,
+    "modification_date": "2023-05-13"
+  },
+  {
+    "cityName": "Baruta",
+    "country": "VE",
+    "coordinates": {
+      "lon": -66.87558,
+      "lat": 10.43424
+    },
+    "population": 244216,
+    "modification_date": "2019-04-10"
+  },
+  {
+    "cityName": "Guarenas",
+    "country": "VE",
+    "coordinates": {
+      "lon": -66.61934,
+      "lat": 10.47027
+    },
+    "population": 248588,
+    "modification_date": "2021-10-29"
+  },
+  {
+    "cityName": "San Cristóbal",
+    "country": "VE",
+    "coordinates": {
+      "lon": -72.225,
+      "lat": 7.76694
+    },
+    "population": 289852,
+    "modification_date": "2021-10-27"
+  },
+  {
+    "cityName": "Nha Trang",
+    "country": "VN",
+    "coordinates": {
+      "lon": 109.19432,
+      "lat": 12.24507
+    },
+    "population": 283441,
+    "modification_date": "2019-09-05"
+  },
+  {
+    "cityName": "Thái Nguyên",
+    "country": "VN",
+    "coordinates": {
+      "lon": 105.84817,
+      "lat": 21.59422
+    },
+    "population": 249004,
+    "modification_date": "2021-12-06"
+  },
+  {
+    "cityName": "Ninh Hòa",
+    "country": "VN",
+    "coordinates": {
+      "lon": 109.12495,
+      "lat": 12.49187
+    },
+    "population": 240750,
+    "modification_date": "2021-07-13"
+  },
+  {
+    "cityName": "Long Xuyên",
+    "country": "VN",
+    "coordinates": {
+      "lon": 105.43518,
+      "lat": 10.38639
+    },
+    "population": 272365,
+    "modification_date": "2021-11-15"
+  },
+  {
+    "cityName": "Richards Bay",
+    "country": "ZA",
+    "coordinates": {
+      "lon": 32.03768,
+      "lat": -28.78301
+    },
+    "population": 252968,
+    "modification_date": "2012-07-12"
+  },
+  {
+    "cityName": "Emalahleni",
+    "country": "ZA",
+    "coordinates": {
+      "lon": 29.23323,
+      "lat": -25.87133
+    },
+    "population": 262491,
+    "modification_date": "2022-09-26"
+  },
+  {
+    "cityName": "Vanderbijlpark",
+    "country": "ZA",
+    "coordinates": {
+      "lon": 27.83795,
+      "lat": -26.71171
+    },
+    "population": 246754,
+    "modification_date": "2012-07-12"
+  }
+]
